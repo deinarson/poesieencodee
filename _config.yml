@@ -1,0 +1,40 @@
+# Site settings
+title: Edda
+subtitle: poesie encodee
+email: github@poesieencodee.com
+description: Autonomous deployments for abstract infrustructure
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 2001 Rue du Vermont
+city: Sherbrooke
+state: Qc
+zip_code: J1J 1G9
+country: Canada
+phone: (514) 303 9286
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+instagram_url:  https://www.instagram.com/steph.mori7
+vimeo_url:      https://vimeo.com/140968828 
+blog_url:       https://stephaniemorissette.wordpress.com 
+web_url:        http://www.stephaniemorissette.com
+slack_url:
+twitter_url:
+linkedin_url: 
+pinterest_url:
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:  
+googleplus_url: 
+
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
