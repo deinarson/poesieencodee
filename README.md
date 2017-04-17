@@ -1,2 +1,2 @@
 # poesieencodee
-a place for my personal stuff http://poesieencodee.com
+a place for my personal stuff http://www.poesieencodee.com
