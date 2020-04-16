@@ -1,5 +1,9 @@
 #https://jekyllrb.com/docs/github-pages/
-	
+BRANCH=$(shell git rev-parse --abbrev-ref HEAD )
+
+git:
+	git push origin ${BRANCH}
+
 serve:
 	bundle exec jekyll serve
 
